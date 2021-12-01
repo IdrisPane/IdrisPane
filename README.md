@@ -7,7 +7,7 @@
 
 - 🧪 I'm an undergraduate chemistry student who passionate about data science!
 - 🌱 I’m currently learning data science & analytics
-- 👯 I’m looking to collaborate with other developers!
+- 👯 I’m looking to collaborate with other developers/data enthusiasts
 - ⚡ Fun fact: I love to play guitar and video games
 - 📫 How to reach me **idris_pane@apps.ipb.ac.id**
 
