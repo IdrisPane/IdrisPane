@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Idris</h1>
 
 
-## 🙋‍About Me!
+## 🙋‍♂️About Me!
 
 - 🧪 I'm an undergraduate chemistry student who passionate about data science!
 - 🌱 I’m currently learning data science & analytics
