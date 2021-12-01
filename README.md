@@ -5,13 +5,12 @@
 - 👯 I’m looking to collaborate with other developers!
 - ⚡ Fun fact: I love to play guitar and video games
 
-### Connect with me:
+### Connect with me!:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="https://www.linkedin.com/in/idris-darmawan-pane/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.datacamp.com/profile/panedeniro0"><img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F"></a>
 
 <br />
-
-[linkedin]: https://www.linkedin.com/in/idris-darmawan-pane/
 
 ---
 
