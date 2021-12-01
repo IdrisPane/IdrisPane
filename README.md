@@ -16,7 +16,6 @@
 
 <img align="left" alt="IdrisPane's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IdrisPane&show_icons=true&hide_border=true" />
 
----
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IdrisPane&layout=compact)](https://github.com/IdrisPane/github-readme-stats)
 
