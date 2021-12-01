@@ -18,3 +18,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IdrisPane&layout=compact&theme=aura)](https://github.com/IdrisPane/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=IdrisPane)
