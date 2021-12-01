@@ -13,7 +13,7 @@
 <br />
 
 ---
-
+![IdrisPane's GitHub stats](https://github-readme-stats.vercel.app/api?username=IdrisPane&theme=aura&show_icons=true)
 <img align="left" alt="IdrisPane's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IdrisPane&show_icons=true&hide_border=true" />
 
 
