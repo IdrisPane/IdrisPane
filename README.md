@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Idris</h1>
 
 
-### About Me! 👋 
+## 🙋‍About Me!
 
 - 🧪 I'm an undergraduate chemistry student who passionate about data science!
 - 🌱 I’m currently learning data science & analytics
@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I love to play guitar and video games
 - 📫 How to reach me **idris_pane@apps.ipb.ac.id**
 
-### Connect with me!:
+## ❤Connect with me!:
 
 <a href="https://www.linkedin.com/in/idris-darmawan-pane/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.datacamp.com/profile/panedeniro0"><img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F"></a>
