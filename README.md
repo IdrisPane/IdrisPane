@@ -12,3 +12,7 @@
 <br />
 
 [linkedin]: https://www.linkedin.com/in/idris-darmawan-pane/
+
+---
+
+<img align="left" alt="IdrisPane's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IdrisPane&show_icons=true&hide_border=true" />
