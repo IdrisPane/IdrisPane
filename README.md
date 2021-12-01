@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://www.freepik.com/free-vector/visual-data-concept-illustration_7504550.htm#page=1&query=machine%20learning&position=26&from_view=search" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Idris</h1>
 
