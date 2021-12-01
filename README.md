@@ -16,5 +16,5 @@
 ![IdrisPane's GitHub stats](https://github-readme-stats.vercel.app/api?username=IdrisPane&theme=aura&show_icons=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IdrisPane&layout=compact)](https://github.com/IdrisPane/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IdrisPane&layout=compact&theme=aura)](https://github.com/IdrisPane/github-readme-stats)
 
