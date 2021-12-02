@@ -7,7 +7,7 @@
 
 - 🧪 I'm an undergraduate chemistry student who passionate about data science!
 
-- 🏫 I'm Currently attending IPB University
+- 🏫 I'm currently attending IPB University
 
 - 🌱 I’m currently learning data science & analytics
 
