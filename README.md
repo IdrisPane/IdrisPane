@@ -7,9 +7,11 @@
 
 - 🧪 I'm an undergraduate chemistry student who passionate about data science!
 
+- 🏫 I'm Currently attending IPB University
+
 - 🌱 I’m currently learning data science & analytics
 
-- 👯 I’m looking to collaborate with other developers/data enthusiasts
+- 👯 I’m looking to collaborate with other developers/data enthusiasts to do some data science or analytics project
 
 - ⚡ Fun fact: I love to play guitar and video games
 
@@ -25,7 +27,6 @@
 ## 📊 My Github Stats
 
 ![IdrisPane's GitHub stats](https://github-readme-stats.vercel.app/api?username=IdrisPane&theme=aura&show_icons=true)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IdrisPane&layout=compact&theme=aura)](https://github.com/IdrisPane/github-readme-stats)
 
