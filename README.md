@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact: I love to play guitar and video games
 
-- 📫 How to reach me **idris_pane@apps.ipb.ac.id**
+- 📫 How to reach me ,**idris_pane@apps.ipb.ac.id**
 
 ## ❤Connect with me!:
 
