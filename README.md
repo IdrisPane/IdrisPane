@@ -5,9 +5,9 @@
 
 ## 🙋‍♂️About Me!
 
-- 🧪 I'm an undergraduate chemistry student who passionate about data science!
+- 💻 I'm currently working as a data specialist in PT BFI Finance Indonesia, Tbk
 
-- 🏫 I'm currently attending IPB University
+- 🏫 Graduated from IPB University with chemistry degree
 
 - 🌱 I’m currently learning data science & analytics
 
@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact: I love to play guitar and video games
 
-- 📫 How to reach me ,**idris_pane@apps.ipb.ac.id**
+- 📫 How to reach me ,**idrisdarmawanpane@gmail.com**
 
 ## ❤Connect with me!:
 
